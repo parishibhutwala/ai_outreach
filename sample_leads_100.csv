@@ -1,0 +1,99 @@
+name,company,role,industry,extra_context
+Alice Johnson,Acme Corp,VP of Sales,Retail,Recently expanded into APAC markets and is looking to scale her team
+Bob Chen,TechFlow,CTO,SaaS,Open-source contributor and building developer productivity tools
+Maria Gomez,StartupX,Founder,Fintech,Just raised a Series A and is aggressively hiring engineers
+David Kim,RetailGiant,Head of Marketing,Retail,Keynote speaker at NRF 2024 on AI personalization
+Priya Patel,FinTech Inc,Product Manager,Fintech,Background in ML and working on payments infrastructure
+James Wright,HealthPlus,Director of Operations,Healthcare,Overseeing digital transformation of a large hospital network
+Sophie Dubois,GreenWave,Sustainability Lead,CleanTech,Running a net-zero initiative and presented at COP28
+Luca Ferrari,AutoTech,VP Engineering,Automotive,Building autonomous vehicle software and is ex-Tesla
+Ananya Iyer,EduLeap,Co-founder,EdTech,EdTech platform serving 200k students across India
+Carlos Mendoza,LogiChain,COO,Logistics,Recently migrated supply chain to cloud-native architecture
+Rachel Thompson,NovaBio,Head of Research,Biotech,Published 3 papers on CRISPR gene editing in 2024
+Ethan Brooks,CloudNine,Solutions Architect,Cloud,Helping enterprises migrate to multi-cloud environments
+Fatima Al-Hassan,GulfTrade,Business Development Director,Trade,Expanding operations across Middle East and Africa
+Hiroshi Tanaka,SoftWave,Engineering Manager,SaaS,Leading a team of 40 engineers building real-time analytics
+Natasha Ivanova,PixelDream,Creative Director,Media,Award-winning designer who recently joined from Google
+Omar Shaikh,PropTech Pro,CEO,Real Estate,Digitizing property management for 50000 units across India
+Laura Bianchi,FoodFirst,Head of Growth,FoodTech,Scaled user base from 10k to 500k in under 18 months
+Kevin O'Brien,SecureNet,CISO,Cybersecurity,Managing security for a Fortune 500 company after a major breach
+Yuki Nakamura,AnimAI,ML Engineer,AI,Working on generative AI for animation and recently filed 2 patents
+Aisha Diallo,AfriPay,Head of Partnerships,Fintech,Building payment rails across 12 African countries
+Tom Harrington,SpaceTech,Aerospace Engineer,Aerospace,Working on satellite communication systems for rural connectivity
+Elena Petrova,MedScan,Product Lead,HealthTech,Launched an AI diagnostic tool used by 300 hospitals
+Raj Kapoor,RetailBot,Founder,Retail AI,Built a conversational AI for retail that was acquired by a major chain
+Sandra Lee,LegalEagle,Partner,Legal,Specializes in tech law and IP for startups
+Mohammed Al-Farsi,SmartCity,Smart Infrastructure Lead,GovTech,Designing IoT solutions for Dubai smart city project
+Grace Okonkwo,AgriSmart,CEO,AgriTech,Precision farming platform helping 100k smallholder farmers in Nigeria
+Felix Wagner,FinBot,Quant Developer,Finance,Building algorithmic trading systems using ML at a top hedge fund
+Isabella Rossi,TravelAI,Head of Product,Travel,Redesigning travel booking using conversational AI post-COVID
+Patrick O'Connor,BioWave,VP Business Development,Biotech,Licensing biotech IP to pharma companies globally
+Mei Lin,DataVault,Data Scientist,Data,Leading a team building privacy-preserving ML models
+Samuel Osei,CleanEnergy Hub,Founder,CleanTech,Solar microgrids deployed in 5 countries across West Africa
+Nadia Rahman,FashionTech,Head of AI,Fashion,Using computer vision for virtual try-on at a top fashion brand
+Diego Torres,UrbanMobility,CTO,MobilityTech,Building EV fleet management software used in 20 cities
+Chloe Martin,HR Nexus,People Analytics Lead,HRTech,Using AI to reduce employee churn for enterprise clients
+Arjun Mehta,InsureTech,Actuary turned PM,InsurTech,Digitizing underwriting workflows using NLP
+Yewande Adeyemi,MediaPulse,Editor in Chief,Media,Building AI-assisted journalism tools for a major news network
+Lucas Schmidt,RoboFactory,Head of Automation,Manufacturing,Deploying robotic process automation in auto assembly plants
+Zara Hussain,CryptoLend,DeFi Strategist,Web3,Building decentralized lending protocols on Ethereum
+Björn Lindqvist,NordicHealth,Digital Health Lead,Healthcare,Implementing AI triage in Scandinavian public hospitals
+Amara Nwosu,EduBridge,Head of Curriculum,EdTech,Designing AI-powered personalized learning for African schools
+Victor Huang,LogiSense,Founder,Logistics,Real-time shipment tracking platform used by 200 enterprise clients
+Camille Dupont,BeautyAI,CMO,BeautyTech,Leveraging AI for hyper-personalized skincare recommendations
+Ibrahim Al-Saeed,FinEdge,CFO,Finance,Automating financial reporting for mid-market companies
+Suki Park,GameVerse,Lead Game Designer,Gaming,Designing AI-driven NPC behavior for open-world games
+Renata Souza,LegalBot,Co-founder,LegalTech,Automating contract review for law firms using NLP
+Mikhail Sorokin,CyberShield,Threat Intelligence Lead,Cybersecurity,Tracking APT groups and building threat detection models
+Aditi Sharma,WellnessAI,Head of Product,HealthTech,Mental health app with 1M users built on conversational AI
+Nathan Clark,AgentAI,Solutions Engineer,AI,Helping enterprises deploy AI agents for workflow automation
+Fatou Diagne,MicroFin,CEO,Microfinance,Providing credit scoring to unbanked populations in Senegal
+Hiroshi Yamamoto,RoboSurg,Robotics Engineer,MedTech,Developing surgical robotics used in 50 hospitals across Japan
+Priya Nair,CloudSec,VP Product,Cloud Security,Building zero-trust security platform for hybrid cloud
+Tobias Müller,EnergyFlow,Data Engineer,Energy,Building smart grid analytics for European utility companies
+Kemi Adebayo,RetailX,Head of E-commerce,Retail,Scaled online sales from 0 to $50M in 2 years for a Nigerian brand
+Raj Singh,DeepVision,Computer Vision Lead,AI,Object detection models deployed in smart manufacturing plants
+Charlotte Bernard,SportsTech,Head of Analytics,Sports,Using AI for player performance prediction at a top football club
+Emeka Eze,HealthBridge,COO,Healthcare,Telemedicine platform serving 2M patients across West Africa
+Hana Kobayashi,MarketMind,Marketing Analyst,Marketing,Using ML to optimize ad spend across digital channels
+Paulo Ferreira,FinStream,Backend Engineer,Fintech,Building high-throughput payment processing systems
+Olivia Hansen,GreenTech,ESG Analyst,Sustainability,Helping Fortune 500 firms measure and report carbon footprint
+Ahmad Karimi,EduBot,AI Research Lead,EdTech,Developing adaptive learning algorithms for online education
+Luciana Vega,AgriLink,Head of Partnerships,AgriTech,Connecting smallholder farmers to global commodity markets
+Ben Okafor,PropScan,CTO,PropTech,Computer vision for automated property valuation in Africa
+Sara Lindström,NordicAI,ML Scientist,AI Research,Working on LLM fine-tuning for Scandinavian languages
+Marco Russo,SupplyEdge,VP Operations,Supply Chain,Reducing supply chain costs by 30 percent using AI forecasting
+Zanele Mokoena,FintechSA,Head of Compliance,Fintech,Navigating crypto regulations across Southern Africa
+George Papadopoulos,TourismAI,Founder,Travel,AI trip planner with personalized itineraries adopted by major OTAs
+Fatima Malik,HealthAI,Clinical Informatics Lead,Healthcare,Deploying NLP to extract insights from clinical notes
+Dan Watanabe,QuantumSoft,Software Engineer,Quantum Computing,Building quantum algorithms for supply chain optimization
+Nneka Obi,MediaHub,Head of Monetization,Media,Building programmatic ad solutions for African publishers
+Sven Eriksson,AutoML,Lead Data Scientist,AI,Automating feature engineering for enterprise ML pipelines
+Adeola Adewale,LogiAfrika,Founder,Logistics,Last-mile delivery startup serving 10 cities across West Africa
+Mei Chen,BioData,Bioinformatics Lead,Biotech,Analyzing genomic datasets to accelerate drug discovery
+Javier Ruiz,CityFlow,Urban Planner,Smart Cities,Using data to optimize traffic systems in Latin American cities
+Tunde Oladipo,PayFast,Head of Engineering,Fintech,Building real-time payment infrastructure for African merchants
+Simone Bauer,RetailMind,Head of Data,Retail,Using ML to personalize product recommendations for 5M customers
+Kwame Mensah,ClimateAI,Climate Scientist,CleanTech,Building predictive models for extreme weather events in Africa
+Aiko Tanaka,RoboChef,Head of Product,FoodTech,Automating commercial kitchen operations using robotics
+Liam O'Sullivan,SecureCloud,DevSecOps Lead,Cybersecurity,Embedding security into CI/CD pipelines for SaaS companies
+Yara Al-Khalidi,EdVenture,Learning Experience Designer,EdTech,Designing gamified learning experiences for K-12 students
+Bashir Ahmed,AgriTech Pro,Agri Economist,AgriTech,Using satellite data to predict crop yields across South Asia
+Emma Wilson,TechHire,Head of Talent,HRTech,Using AI to reduce time-to-hire from 45 days to 7 days
+Kofi Boateng,HealthScan,Founder,HealthTech,Low-cost AI diagnostic tool for malaria screening in rural Ghana
+Ivan Petrov,CyberOps,SOC Manager,Cybersecurity,Running 24/7 security operations for a major European bank
+Amina Diallo,SocialImpact AI,Director,NonProfit Tech,Using AI to optimize aid distribution in humanitarian crises
+Tyler Brooks,DataBridge,Analytics Engineer,Data,Building real-time data pipelines on Snowflake and dbt
+Haruto Sato,FinTechJP,Compliance Officer,Fintech,Navigating Japan's evolving open banking regulations
+Ify Okonkwo,AgriConnect,Head of Product,AgriTech,Mobile marketplace connecting 500k farmers to buyers in Nigeria
+Nour El-Din,MedAI,Radiologist turned AI Lead,HealthTech,Building AI radiology tools used in Egyptian public hospitals
+Lena Fischer,ClimateVentures,VC Partner,Climate Finance,Investing in early-stage climate tech startups across Europe
+Adebayo Ogunleye,EduTech NG,CEO,EdTech,Offline-first learning app serving students in low-bandwidth areas
+Xiomara Reyes,LatinaFounder,Startup Coach,Startup Ecosystem,Mentoring 200 female founders across Latin America
+Ryo Fujita,RoboLogic,Automation Engineer,Manufacturing,Deploying cobots in electronics assembly lines across Asia
+Blessing Okafor,FinLearn,Financial Literacy Lead,Fintech,Delivering financial education to underserved communities in Nigeria
+Silke Hoffmann,GreenBuild,Sustainable Architect,Construction,Designing net-zero buildings using AI-driven energy modelling
+Chukwuemeka Eze,PayLink,Founder,Fintech,Cross-border remittance platform reducing fees for African diaspora
+Jana Novak,CzechAI,AI Product Manager,AI,Localizing AI tools for Central and Eastern European markets
+Seun Adesanya,MobilityNG,Head of Operations,MobilityTech,Running ride-hailing operations for 1M daily rides in Nigeria
+Taro Kimura,DeepMed,ML Researcher,HealthTech,Developing drug-drug interaction prediction models using graph neural networks
